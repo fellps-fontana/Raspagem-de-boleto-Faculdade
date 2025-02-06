@@ -1,9 +1,9 @@
 Senhas = {
-    'servidor_smtp': 'smtp.gmail.com',
-    'porta': 587,
-    'usuario': 'felipe.fontana72@gmail.com',
-    'senha': 'ftjl ylyh wrhy fwuc',
-    'user_senai': 'felipe_fontana',
-    'senhas_senai': 'Fe568923',
-    'email_receptor':'givanildo.fontana22@gmail.com'
+    'servidor_smtp': '',
+    'porta': ,
+    'usuario': '',
+    'senha': '',
+    'user_senai': '',
+    'senhas_senai': '',
+    'email_receptor':''
 }
